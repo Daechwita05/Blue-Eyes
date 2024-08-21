@@ -1,0 +1,27 @@
+{
+  "name": "Blue-Eyes",
+  "displayName": "Blue Eyes",
+  "description": "For the blue lovers!",
+  "version": "0.0.1",
+  "publisher": "BlueEyes",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "keywords": [
+    "theme",
+    "Blue",
+    "Ocean"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blue Eyes",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Blue Eyes-color-theme.json"
+      }
+    ]
+  }
+}
